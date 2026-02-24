@@ -42,7 +42,7 @@ agustina = {
 <!-- Tech Stack -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=DCFCE7&center=false&vCenter=true&width=400&lines=Tech+Stack" />
 
-<img align="right" src="https://raw.githubusercontent.com/AgusDelga2/AgusDelga2/main/assets/flor_sinfondo.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/AgusDelga2/AgusDelga2/main/assets/flor_sinfondo.png" width="340"/>
 
 **🐍 Programming Languages**
 
@@ -102,15 +102,6 @@ agustina = {
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 </p>
-
----
-
-<!-- Experiencia destacada -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=DCFCE7&center=false&vCenter=true&width=400&lines=Experience+Highlights" />
-
-- 📊 **Data Analyst** @ Creativos Digitales — dashboards, data pipelines & reporting with Looker Studio  
-- 👩🏽‍🏫 **Technical Trainer** — 300+ sessions for CS teachers & 250+ individuals trained on AI/ML concepts  
-- 🤖 **AI Tutor** @ Vía Libre Foundation — supported educators in exploring AI biases in the classroom (EDIA Project)
 
 ---
 
