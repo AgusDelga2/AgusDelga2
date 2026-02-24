@@ -11,7 +11,7 @@
   <h3>🌱 Growing at the intersection of data, code & curiosity 🌱</h3>
   <p>
     Passionate about <strong>machine learning</strong>, <strong>deep learning</strong>, and the intersection of AI with real-world impact.<br/>
-    Currently pursuing a <strong>Bachelor's in Computer Science</strong> at Universidad Nacional de Córdoba (FAMAF) 🎓, with a <strong>Data Science Intermediate Degree</strong> from Instituto Superior Politécnico de Córdoba.<br/>
+    Currently pursuing a <strong>Bachelor's in Computer Science</strong> at Universidad Nacional de Córdoba (FAMAF), with a <strong>Data Science Intermediate Degree</strong> from Instituto Superior Politécnico de Córdoba.<br/>
     Also exploring how AI can be taught, evaluated, and made more fair.
   </p>
   <p><em>✨ Junior Data Scientist looking to grow through real projects</em></p>
@@ -33,7 +33,7 @@ agustina = {
     "interests": ["Machine Learning", "NLP", "Neural Networks", "AI Ethics"],
     "languages": {"Spanish": "native", "English": "intermediate"},
     "currently_learning": "Deep Learning architectures & advanced NLP",
-    "fun_fact": "I've trained 250+ people on AI and ML concepts 🚀"
+    "fun_fact": "I've trained 250+ people on AI and ML concepts"
 }
 ```
 
