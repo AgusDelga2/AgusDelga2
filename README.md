@@ -22,10 +22,6 @@
 <!-- About me -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=DCFCE7&center=false&vCenter=true&width=400&lines=About+Me" />
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
 ```python
 agustina = {
     "location": "Córdoba, Argentina 🇦🇷",
@@ -41,63 +37,62 @@ agustina = {
 }
 ```
 
-  </td>
-    <td valign="center" width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/AgusDelga2/AgusDelga2/main/assets/flor_sinfondo.png" width="220"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <!-- Tech Stack -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=DCFCE7&center=false&vCenter=true&width=400&lines=Tech+Stack" />
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<img align="right" src="https://raw.githubusercontent.com/AgusDelga2/AgusDelga2/main/assets/flor_sinfondo.png" width="350"/>
 
 **🐍 Programming Languages**
 
+<p>
 <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
 **🤖 Machine Learning & Deep Learning**
 
+<p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
 
 **📊 Data Visualization & Reporting**
 
+<p>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=googlelooker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
-
-    </td>
-    <td valign="top" width="50%">
+</p>
 
 **🗄️ Databases**
 
+<p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
 
 **🕸️ Web Scraping**
 
+<p>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
 **🧰 Tools & Environment**
 
+<p>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -106,10 +101,7 @@ agustina = {
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
-
-    </td>
-  </tr>
-</table>
+</p>
 
 ---
 
@@ -123,23 +115,23 @@ agustina = {
 ---
 
 <!-- Footer / Contacto -->
+<img align="left" src="https://raw.githubusercontent.com/AgusDelga2/AgusDelga2/main/assets/neural_estatua.png" width="450"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=DCFCE7&center=false&vCenter=true&width=400&lines=Let's+Connect!" />
 
-<table>
-  <tr>
-    <td valign="center" width="60%">
+<br/>
+
+*Feel free to reach out — always happy to talk about data, projects, or new opportunities!*
+
+<div align="center">
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustina-delgado/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgusDelga2)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustina.delgado.data@gmail.com)
 
-  </td>
-    <td valign="center" width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/AgusDelga2/AgusDelga2/main/assets/neural_estatua.png" width="220"/>
-    </td>
-  </tr>
-</table>
-
+<br/><br/>
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:166534,100:052e16&height=120&section=footer"/>
 </div>
