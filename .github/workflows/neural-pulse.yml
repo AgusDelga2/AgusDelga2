@@ -1,17 +1,5 @@
-# ============================================================
-# 🧠 VERSIÓN A — Neural Pulse
-# Estética: red neuronal, colores azul/violeta
-# ============================================================
-#
-# INSTRUCCIONES:
-# 1. En tu repo AgusDelga2/AgusDelga2, creá la carpeta:
-#    .github/workflows/
-# 2. Guardá este archivo como:
-#    .github/workflows/neural-pulse.yml
-# 3. Hacé commit y push. GitHub Actions lo ejecutará solo.
-# ============================================================
 
-name: 🧠 Neural Pulse — Contribution Graph
+name: 🐍 Snake Contribution Graph
 
 on:
   schedule:
@@ -29,19 +17,19 @@ jobs:
       contents: write
 
     steps:
-      - name: 🧠 Generate Neural Pulse — Dark
+      - name: 👾 Generate Pacman — Dark (violeta sobre fondo oscuro)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AgusDelga2
           outputs: |
-            dist/neural-pulse-dark.svg?color_snake=#a78bfa&color_dots=#0d1117,#1e1b4b,#3730a3,#6d28d9,#a78bfa
+            dist/snake-dark.svg?color_snake=#a78bfa&color_dots=#0d1117,#1e1b4b,#3730a3,#6d28d9,#a78bfa&output_format=pacman-reverse
 
-      - name: 🧠 Generate Neural Pulse — Light
+      - name: 👾 Generate Pacman — Light (violeta sobre fondo claro)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AgusDelga2
           outputs: |
-            dist/neural-pulse-light.svg?color_snake=#7c3aed&color_dots=#f5f3ff,#ddd6fe,#8b5cf6,#6d28d9,#4c1d95
+            dist/snake-light.svg?color_snake=#7c3aed&color_dots=#f5f3ff,#ddd6fe,#8b5cf6,#6d28d9,#4c1d95&output_format=pacman-reverse
 
       - name: 🚀 Push to output branch
         uses: peaceiris/actions-gh-pages@v3
